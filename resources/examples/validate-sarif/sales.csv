@@ -14,3 +14,4 @@ deliver after 5pm"
 1012,2026-10-12,ABC-1245,East,7,$8.00
 1013,2026-10-13,ABC-1246,West,9,$1.50,lee@example.com,This note runs past the eighty-character limit that the schema sets on the notes column
 1014,2026-10-14,ABC-1247,North,3,$2.25,mo@example.com,
+1015,2026-10-15,ABC-1248,North,3,$2.25,nora-at-example.com,
